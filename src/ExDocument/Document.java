@@ -1,4 +1,4 @@
-package Ex2;
+package ExDocument;
 
 public class Document {
     public static int i;

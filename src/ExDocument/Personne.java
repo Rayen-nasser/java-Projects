@@ -1,4 +1,4 @@
-package Ex3;
+package ExDocument;
 
 public class Personne {
     protected int id;

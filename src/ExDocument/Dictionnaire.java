@@ -1,4 +1,4 @@
-package Ex2;
+package ExDocument;
 
 public class Dictionnaire extends Document {
     private String langue;

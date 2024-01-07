@@ -1,4 +1,4 @@
-package Ex2;
+package ExDocument;
 
 public class Livre extends Document {
     private String auteur;

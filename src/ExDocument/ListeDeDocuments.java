@@ -1,4 +1,4 @@
-package Ex2;
+package ExDocument;
 
 import java.util.ArrayList;
 public class ListeDeDocuments {

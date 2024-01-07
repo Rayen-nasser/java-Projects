@@ -1,4 +1,4 @@
-package Ex2;
+package ExDocument;
 
 public class Bibliotheque {
     public static void main(String[] args) {
